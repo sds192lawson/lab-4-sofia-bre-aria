@@ -25,7 +25,7 @@ output:
 
 
 ```{r}
-#Load the ggplot library here.
+#Load the ggplot library here
 library(ggplot2)
 ```
 
